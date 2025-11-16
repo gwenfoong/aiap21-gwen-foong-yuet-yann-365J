@@ -8,7 +8,7 @@ Email Address: gwenfoong@hotmail.com
 
 **Overview of the submitted folder and the folder structure**
 ├── eda.ipynb                 
-├── src/
+├── src
 │   ├── config.py             
 │   ├── data_loader.py        
 │   ├── preprocess.py         
